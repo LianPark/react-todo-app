@@ -1,3 +1,8 @@
+# 소개
+
+chatGPT을 이용하여 기본코드를 받아서 진행하는 Todo List로써 React, PHP, MYSQL을 이용하고 있습니다.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
